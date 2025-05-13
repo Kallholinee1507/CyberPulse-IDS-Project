@@ -1,0 +1,7 @@
+Dash
+Dash Bootstrap Components
+Plotly
+Scapy 
+Pandas
+Nmap
+Threading
