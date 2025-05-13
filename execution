@@ -1,0 +1,2 @@
+pip install -U kaleido
+pip install python-nmap scapy dash dash-bootstrap-components plotly pandas fdf python-pptx
